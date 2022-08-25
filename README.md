@@ -20,7 +20,7 @@ Locators contains all the xpaths which are used, I make a seperate class for xpa
 'SeleniumTestCases' contains all test cases and browser will be closed automatically after the test cases execution
 Final page validation is done by getting the title and compared it with the expected title.
 
-#API Automation
+# API Automation
 
 Used the REST API at: https://gorest.co.in/ and created a personal access token
 Created a new user, post, comment and todos.
@@ -36,6 +36,6 @@ Wrong format email validation is also done.
 Post the data and compared it with the get data APIs
 You need to add new email for createuser test case otherwise it will gets fail.
 
-#Others
+# Others
 We can also verify other parts of API response like Content header.
 API automation can also be done using Postman and Test feature.
