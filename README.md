@@ -35,3 +35,7 @@ Mandatory fields validation.
 Wrong format email validation is also done.
 Post the data and compared it with the get data APIs
 You need to add new email for createuser test case otherwise it will gets fail.
+
+#Others
+We can also verify other parts of API response like Content header.
+API automation can also be done using Postman and Test feature.
